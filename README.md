@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
-<h1 align="center">Hi 👋, I'm Thumula Ubeysiri</h1>
-<h3 align="center">A passionate IT student from Sri Lanka</h3>
+<h1 align="left">Hi 👋, I'm Thumula Ubeysiri</h1>
+<h3 align="left">A passionate IT student from Sri Lanka</h3>
 <img align="center" alt="coding" width="400" src="https://64.media.tumblr.com/7b4391bbfed2af6764fec491eab08b57/3142cd28c78e9e5a-0d/s1280x1920/babb6de81f0f798f188e236702f9f96f598caa8e.gif">
 
 - 🌱 I’m currently an undergraduate **at NIBM**
