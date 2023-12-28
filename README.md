@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tubeysiri@gmail.com**
 
-- ⚡ Fun fact **The 'fox' in the Mozilla Firefox logo is a red panda.**
+- ⚡ Fun fact **- For every 12 million email spams, only one gets a reply.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
