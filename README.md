@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F683984262135912604%2F&psig=AOvVaw262BwccMgDHE1klBlm9juo&ust=1720668740429000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPj9w_rEm4cDFQAAAAAdAAAAABAO))](https://ThumulaUbeysiri.io)
+[![MasterHead]([https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://ThumulaUbeysiri.io)
 <h1 align="center">Hi 👋, I'm Thumula Ubeysiri</h1>
 <h3 align="center">BSc (Hons) Computing undergrad</h3>
 <br>
