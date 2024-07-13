@@ -4,7 +4,7 @@
 <br>
 <img align="left" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="ThumulaW" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2Ffunny-gif-let-me-turn-it-into-an-analogy-for-my-workplace-r-3201584.html&psig=AOvVaw1KRb_wd6DJpb2AIc1kS6gt&ust=1720951764529000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPjh44Xjo4cDFQAAAAAdAAAAABAE" alt="ThumulaW" /> </p>
 
 - 🌱 I’m currently learning **Bootstrap,php**
 
