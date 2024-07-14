@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thumula Ubeysiri</h1>
 <h3 align="center">BSc (Hons) Computing undergrad</h3>
 <br>
-<img align="center" alt="Coding" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif">
+<img align="center" alt="Coding" width="300" src="[https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F1asyzovvrn8a1.gif%3Fwidth%3D1200%26format%3Dmp4%26s%3D1ee67863965bdfadfc3210bf11b2e4362b82feba)">
 
 <p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1290/0*GuSmU6_NgtC8vMKN.gif" alt="ThumulaW" /> </p>
 
