@@ -6,7 +6,7 @@
 
 <p align="center"> <img width="700" height="400" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif" /> </p>
 
-<p align="center">  - 🌱 Currently learning <strong> Bootstrap, php, java, C#</strong </p>
+<p align="center">  - 🌱 Currently learning <strong> Bootstrap, php, java, javascript, C#</strong </p>
 
 <p align="center"> - 📫 How to reach me  <a href="tubeysiri@gmail.com"> tubeysiri@gmail.com <a/> </p>
 
