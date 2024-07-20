@@ -6,7 +6,7 @@
 
 <p align="center"> <img width="700" height="400" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThumulaUbeysiri&color=blue" alt="Profile Views"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThumulaUbeysiri&color=red" alt="Profile Views"> </p>
 
 
 <p align="center">  - 🌱 Currently learning <strong> Bootstrap, php, java, javascript, C#</strong </p>
