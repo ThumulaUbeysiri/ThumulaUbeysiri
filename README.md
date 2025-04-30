@@ -24,16 +24,35 @@
 
 <h3 align="center">☁️ AWS & Cloud Skills:</h3>
 <p align="center">
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="ec2" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/network.png" alt="vpc" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="s3" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-amazon-cloudwatch-a-monitoring-and-management-service-logo-color-tal-revivo.png" alt="cloudwatch" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/efs/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/server.png" alt="efs" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-rds.png" alt="rds" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/amazon-dynamodb.png" alt="dynamodb" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-load-balancer-cloud-computing-outline-outline-juicy-fish.png" alt="elb" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/lock--v1.png" alt="iam" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/AWSGeneral/AmazonVPC.png" alt="vpc" width="40" height="40"/>
+  </a> 
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Storage/AmazonS3.png" alt="s3" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Management-Governance/AmazonCloudWatch.png" alt="cloudwatch" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/efs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Storage/AmazonEFS.png" alt="efs" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Database/AmazonRDS.png" alt="rds" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Database/AmazonDynamoDB.png" alt="dynamodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Networking-ContentDelivery/ElasticLoadBalancing.png" alt="elb" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Security-Identity-Compliance/AWSIAM.png" alt="iam" width="40" height="40"/> 
+  </a> 
 </p>
+
 
 
 
