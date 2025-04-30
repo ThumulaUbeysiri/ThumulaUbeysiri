@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThumulaUbeysiri&color=red" alt="Profile Views"> </p>
 
 
-<p align="center">  - 🌱 Currently learning <strong> MERN, java, Springboot</strong </p>
+<p align="center">  - 🌱 Currently learning <strong> AWS, java, Springboot</strong </p>
 
 <p align="center"> - 📫 How to reach me  <a href="tubeysiri@gmail.com"> tubeysiri@gmail.com <a/> </p>
 
