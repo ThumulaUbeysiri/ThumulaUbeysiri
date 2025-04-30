@@ -24,34 +24,18 @@
 
 <h3 align="center">☁️ AWS & Cloud Skills:</h3>
 <p align="center">
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/AWSGeneral/AmazonVPC.png" alt="vpc" width="40" height="40"/>
-  </a> 
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Storage/AmazonS3.png" alt="s3" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Management-Governance/AmazonCloudWatch.png" alt="cloudwatch" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/efs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Storage/AmazonEFS.png" alt="efs" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Database/AmazonRDS.png" alt="rds" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Database/AmazonDynamoDB.png" alt="dynamodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Networking-ContentDelivery/ElasticLoadBalancing.png" alt="elb" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/Security-Identity-Compliance/AWSIAM.png" alt="iam" width="40" height="40"/> 
-  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  </a>
 </p>
+
+<p align="center">
+  Experience with AWS services including:
+  <br><br>
+  <strong>EC2</strong> • <strong>VPC</strong> • <strong>S3</strong> • <strong>Security Groups</strong> • <strong>CloudWatch</strong> • 
+  <strong>EFS</strong> • <strong>RDS</strong> • <strong>DynamoDB</strong> • <strong>Elastic Load Balancing (ELB)</strong> • <strong>IAM</strong>
+</p>
+
 
 
 
