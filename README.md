@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThumulaUbeysiri&color=red" alt="Profile Views"> </p>
 
-
+<p align="center">  DevOps Enthusiast </p>
 <p align="center">  - 🌱 Currently learning <strong> AWS, java, Springboot</strong </p>
 
 <p align="center"> - 📫 How to reach me  <a href="tubeysiri@gmail.com"> tubeysiri@gmail.com <a/> </p>
@@ -25,16 +25,16 @@
 <h3 align="center">☁️ AWS & Cloud Skills:</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/>
   </a>
 </p>
 
 <p align="center">
-  Experience with AWS services including:
-  <br><br>
+  Experience with AWS services including:<br><br>
   <strong>EC2</strong> • <strong>VPC</strong> • <strong>S3</strong> • <strong>Security Groups</strong> • <strong>CloudWatch</strong> • 
   <strong>EFS</strong> • <strong>RDS</strong> • <strong>DynamoDB</strong> • <strong>Elastic Load Balancing (ELB)</strong> • <strong>IAM</strong>
 </p>
+
 
 
 
